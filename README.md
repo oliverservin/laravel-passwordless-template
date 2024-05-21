@@ -1,6 +1,6 @@
-# Opinionated Laravel Template
+# Opinionated Laravel Passwordless Template
 
-This is a template I use when starting a new Laravel project. It is opinionated and uses the conventions I prefer to work with day-in, day-out.
+This is a template I use when starting a new Laravel project. It is opinionated and uses the conventions I prefer to work with day-in, day-out with a passwordless authentication flow.
 
 ## Installation
 
